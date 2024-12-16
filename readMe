@@ -1,1 +1,1 @@
-These algorithm uses 2 for() loops 
+In main.py code implements pascal triangle and polinomial expansion using 2 for loops. This code can be enhanced using recursion. Update using recursion will be a seperate commit. 
